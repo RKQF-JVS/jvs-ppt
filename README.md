@@ -1,0 +1,41 @@
+# JVS-PPT Demo
+
+这是一个基于 Vue 3 + TypeScript + Vite 构建的 **jvs-ppt-ui** 插件集成示例项目。
+
+## 项目特点
+
+- **开箱即用**：`jvs-ppt-ui` 内置了完整的组件、样式与阿里巴巴 Iconfont SVG 图标库，无需在 `index.html` 中手动引入任何外部图标脚本。
+- **功能示例**：包含一个完整的 `PptExample.vue` 组件，展示了：
+  - 幻灯片工程数据的获取与保存 (`getSaveData`, `save`)。
+  - 导出标准 `.pptx` 文件 (`exportPptx`)、新增页面 (`addSlide`) 与全屏放映 (`startPresentation`)。
+  - 编辑模式与只读预览模式 (`readonly`) 的动态切换。
+  - 自定义资源上传逻辑 (`customUpload`) 的配置。
+- **全屏适配**：优化了布局，确保 PPT 编辑器区域能够完美填充浏览器视口。
+
+## 快速开始
+
+### 1. 安装依赖
+
+```bash
+npm install
+```
+
+### 2. 启动开发服务器
+
+```bash
+npm run dev
+```
+
+项目默认运行在 `http://localhost:10012`。
+
+## 核心配置说明
+
+### 全局引入 (main.ts)
+
+项目在 `main.ts` 中完成了以下配置：
+- 引入 `jvs-ppt-ui` 核心插件及 `jvs-ppt-ui/dist/lib/style.css` 样式。
+- 引入 `Element Plus` 用于示例页面顶部外部操作栏。
+
+## 许可证
+
+本项目遵循 MIT 协议。
