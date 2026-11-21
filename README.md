@@ -35,25 +35,20 @@
 我们除了提供本项目，相关的项目演示地址如下：
 
 - 管理平台（含管理平台）：https://frame.bctools.cn/
-
 - 低代码开发平台：https://app.bctools.cn/
 - 数据智仓（数据分析平台）：http://bi.bctools.cn/
 - 物联网平台：http://iot.bctools.cn/
 - AI套件：https://ai.bctools.cn/
-
 - 规则引擎：http://rules.bctools.cn/
 - 逻辑引擎：http://logic.bctools.cn/
 - APS（智能排产）：https://aps.bctools.cn/
-
 - 视频会议：http://meeting.bctools.cn/
 - 企业文档：http://knowledge.bctools.cn/
 - 企业计划（项目管理）：http://teamwork.bctools.cn/
-
 - md编辑器插件：http://md.bctools.cn/
 - PPT编辑器插件：http://ppt.bctools.cn/
 - Excel编辑器插件：http://excel.bctools.cn/
 - 在线白板插件：http://draw.bctools.cn/
-
 - 企业邮筒（Web邮箱客户端）：http://mailbox.bctools.cn/
 - 智能调度：https://rss.bctools.cn
 - SPC：https://spc.bctools.cn
