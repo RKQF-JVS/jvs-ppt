@@ -37,6 +37,7 @@
 - 管理平台（含管理平台）：https://frame.bctools.cn/
 - 低代码开发平台：https://app.bctools.cn/
 - 数据智仓（数据分析平台）：http://bi.bctools.cn/
+- 物联网平台：http://iot.bctools.cn/
 - 企业文档：http://knowledge.bctools.cn/
 - 企业计划（项目管理）：http://teamwork.bctools.cn/
 - 企业邮筒（Web邮箱客户端）：http://mailbox.bctools.cn/
@@ -46,6 +47,7 @@
 - APS（智能排产）：https://aps.bctools.cn/
 - AI套件：https://ai.bctools.cn/
 - 智能调度：https://rss.bctools.cn
+
 试用账号：微信扫码即可登陆，如需要账号密码试用，请二维码联系我们 技术交流与商务支持
 
 
