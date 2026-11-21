@@ -81,6 +81,3 @@ npm run dev
 - 引入 `jvs-ppt-ui` 核心插件及 `jvs-ppt-ui/dist/lib/style.css` 样式。
 - 引入 `Element Plus` 用于示例页面顶部外部操作栏。
 
-## 许可证
-
-本项目遵循 MIT 协议。
